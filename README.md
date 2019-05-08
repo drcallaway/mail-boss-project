@@ -1,6 +1,6 @@
 # mail-boss
 
-Mail Boss is a free email scheduling service for Gmail users. The website is here:
+Mail Boss is a free email scheduling service that I created for Gmail users. The website is here:
 
 https://www.mailboss.org/
 
